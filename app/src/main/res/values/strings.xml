@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">btkAndroid</string>
+    <string name="name">Name</string>
+    <string name="save">save</string>
+    <string name="mother_name">Mother Name</string>
+    <string name="father_name">Father Name</string>
+    <string name="identity">Identity</string>
+    <string name="surname">Surname</string>
+</resources>
